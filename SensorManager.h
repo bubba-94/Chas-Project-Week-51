@@ -17,7 +17,7 @@ Various sensors can be defined, and can use different source functions for the d
 */
 
 
-struct WeatherReport{
+struct WeatherReport {
     float temperature;
     float humidity;
     float pressure;

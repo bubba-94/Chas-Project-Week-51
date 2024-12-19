@@ -1,7 +1,7 @@
 #include <random>
 #include <iostream>
-
 #include "SensorManager.h"
+#include "DisplayReport.h"
 
 int main(){
     SensorManager s;

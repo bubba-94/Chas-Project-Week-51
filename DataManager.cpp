@@ -1,6 +1,7 @@
 #include <chrono>
 #include <thread>
 
+
 struct WeatherReport{
     std::chrono::time_point logged_time;
     float temp;
